@@ -549,3 +549,17 @@ PRODUCT_PACKAGES += \
     VolumeOutline \
     VolumeShadedLayer \
     VolumeAOSPRevamped
+    
+# Switch Styles
+PRODUCT_PACKAGES += \
+    Aosp \
+    Checkmark \
+    Emoji \
+    Foggy \
+    IOS \
+    Material \
+    Neumorph \
+    Outline \
+    Realme \
+    Shaded \
+    Tiny      
